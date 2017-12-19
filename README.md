@@ -1,6 +1,6 @@
-# Machine Learning for Dummies
+# [Machine Learning for Dummies](https://github.com/mr-ubik/machine-learning-for-dummies)
 
-- **Episode 1: A Pythonic Hope** [(link)](https://github.com/mr-ubik/machine-learning-for-dummies)
+- **Episode 1: A Pythonic Hope** [(link)](https://github.com/mr-ubik/machine-learning-for-dummies#episode-1-a-pythonic-hope)
 - **Episode 2: Python Strikes Back** (Coming Soon...)
 - **Episode 3: Return of the Tenso** (Coming Soon...)
 
