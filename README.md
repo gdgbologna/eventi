@@ -2,7 +2,7 @@
 
 - **Episode 1: A Pythonic Hope** [(link)](https://github.com/mr-ubik/machine-learning-for-dummies#episode-1-a-pythonic-hope)
 - **Episode 2: Python Strikes Back** [(link)](https://github.com/mr-ubik/machine-learning-for-dummies#episode-2-python-strikes-back)
-- **Episode 3: Return of the Tenso** (Coming Soon...)
+- **Episode 3: Return of the Tensor** (Coming Soon...)
 
 # Study Jams 2016
 
